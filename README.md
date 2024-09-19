@@ -1,5 +1,3 @@
----
-
 # 🕵️ My Temu Scraper App [![GitHub](https://img.shields.io/github/license/yourusername/my-temu-scraper?color=blue)](https://img.shields.io/github/license/yourusername/my-temu-scraper) [![GitHub stars](https://img.shields.io/github/stars/yourusername/my-temu-scraper)](https://github.com/yourusername/my-temu-scraper/stargazers)
 
 ## 🚀 A powerful tool to scrape all products from Temu with visualizations and insights.
@@ -40,5 +38,3 @@ You can manipulate the data with Pandas to gain insights into product trends, pr
 - As a healthy open-source community, we should uplift and respect each other; please review our [code of conduct](https://github.com/yourusername/my-temu-scraper/blob/main/CODE_OF_CONDUCT.md).
 
 #### This App is developed by [Your Name](https://github.com/yourusername) with ❤️
-
----
