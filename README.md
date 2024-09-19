@@ -11,7 +11,7 @@ This app is built using **Selenium** for web scraping, **Requests** for HTTP req
 ### 1- Run the scraper to fetch all products from Temu.
 ```bash
 # Clone this repository
-git clone https://github.com/yourusername/my-temu-scraper.git
+git clone https://github.com/eofferupp/my-temu-scraper.git
 
 # Go into the repository
 cd my-temu-scraper
@@ -39,4 +39,4 @@ You can manipulate the data with Pandas to gain insights into product trends, pr
 - For an in-depth guide on recreating this project, refer to the [LEARN.md](https://github.com/eofferupp/my-temu-scraper/LEARN.md) file.
 - As a healthy open-source community, we should uplift and respect each other; please review our [code of conduct](https://github.com/eofferupp/my-temu-scraper/blob/main/CODE_OF_CONDUCT.md).
 
-#### This App is developed by [Tres-Tech](https://github.com/eofferupp) with ❤️
+#### This App is developed by [eofferupp](https://github.com/eofferupp) with ❤️
