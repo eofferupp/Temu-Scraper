@@ -37,4 +37,4 @@ You can manipulate the data with Pandas to gain insights into product trends, pr
 - For an in-depth guide on recreating this project, refer to the [LEARN.md](https://github.com/yourusername/my-temu-scraper/LEARN.md) file.
 - As a healthy open-source community, we should uplift and respect each other; please review our [code of conduct](https://github.com/yourusername/my-temu-scraper/blob/main/CODE_OF_CONDUCT.md).
 
-#### This App is developed by [Your Name](https://github.com/yourusername) with ❤️
+#### This App is developed by [Tres-Tech](https://github.com/eofferupp) with ❤️
