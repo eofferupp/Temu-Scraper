@@ -1,30 +1,30 @@
-<img src="https://github.com/rawheel/My-Unfollowers-Vue-App/blob/main/screenshots/cover.jpg" alt="MyUnfollowers">
+Here’s an updated description that emphasizes the capability to scrape all products from Temu:
 
-# 🕵️ My Unfollowers App [![GitHub](https://img.shields.io/github/license/rawheel/my-unfollowers-app?color=blue)](https://img.shields.io/github/license/rawheel/my-unfollowers-app) [![GitHub stars](https://img.shields.io/github/stars/rawheel/My-Unfollowers-App)](https://github.com/rawheel/My-Unfollowers-App/stargazers)
+---
 
-## 🚀 A platform to inspect GitHub's followers/unfollowers with visualizations and stats.
-The app is developed using Flask(Python micro framework) and Vuejs the coolest & lightest javascript framework for front End. [Backend API](https://github.com/rawheel/MyUnfollowersApi-GitHub) uses GitHub official API to get the user's data and saves it to database. It analyzes the data to generate the insights about GitHub followers and unfollowers. 
-#### check the [Live Demo](https://myunfollowers.herokuapp.com/) 👨‍💻
+# 🕵️ My Temu Scraper App [![GitHub](https://img.shields.io/github/license/yourusername/my-temu-scraper?color=blue)](https://img.shields.io/github/license/yourusername/my-temu-scraper) [![GitHub stars](https://img.shields.io/github/stars/yourusername/my-temu-scraper)](https://github.com/yourusername/my-temu-scraper/stargazers)
+
+## 🚀 A powerful tool to scrape all products from Temu with visualizations and insights.
+This app is built using Flask (Python micro framework) and Vue.js, a lightweight JavaScript framework for the frontend. The [Backend API](https://github.com/yourusername/my-temu-scraper-api) leverages web scraping techniques to gather comprehensive product data from Temu, storing it in a database for detailed analysis and trends. 
+#### Check the [Live Demo](https://mytemuscraper.herokuapp.com/) 👨‍💻
 
 ## ⚙️ USAGE
-### 1- Search your GitHub username.
-<img src="https://github.com/rawheel/My-Unfollowers-Vue-App/blob/main/screenshots/home.jpg" alt="MyUnfollowers-home">
+### 1- Enter your search criteria or leave it blank to scrape all products.
+<img src="https://github.com/yourusername/my-temu-scraper/blob/main/screenshots/home.jpg" alt="Temu Scraper Home">
 
-### 2- [MyUnfollowers opensource GitHub API](https://github.com/rawheel/MyUnfollowersApi-GitHub) store user's follower data to generate results in future.
-<img src="https://github.com/rawheel/My-Unfollowers-Vue-App/blob/main/screenshots/registered.jpg" alt="MyUnfollowers-registered">
+### 2- The scraper will fetch all relevant product data and store it for future analysis.
+<img src="https://github.com/yourusername/my-temu-scraper/blob/main/screenshots/results.jpg" alt="Temu Scraper Results">
 
-### 3- After that whenever user uses the webapp It will give insights about followers & unfollowers.
-<img src="https://github.com/rawheel/My-Unfollowers-Vue-App/blob/main/screenshots/main.jpg" alt="MyUnfollowers-main">
-
-## See, I just got a new follower! 😃
+### 3- View insights, trends, and detailed stats based on the scraped product data.
+<img src="https://github.com/yourusername/my-temu-scraper/blob/main/screenshots/insights.jpg" alt="Temu Scraper Insights">
 
 ## How To Setup & Use
-``` bash
+```bash
 # Clone this repository
-git clone https://github.com/rawheel/MyUnfollowers-App.git
+git clone https://github.com/yourusername/my-temu-scraper.git
 
 # Go into the repository
-cd MyUnfollowers-App
+cd my-temu-scraper
 
 # Install dependencies
 npm install
@@ -32,10 +32,14 @@ npm install
 # Start a local dev server
 npm run serve
 ```
-#### Feel free to use it as-is or personalize it as much as you want.
-- If you'd like to contribute and make this much better for other users, have a look at [Issues](https://github.com/rawheel/MyUnfollowers-App/issues) here is [how you can contribute to this project](https://docs.github.com/en/get-started/quickstart/contributing-to-projects).
-- You can learn how to recreate this project in depth in the [LEARN.md](https://github.com/rawheel/MyUnfollowers-App/LEARN.md) file.
-- As a healthy opensource community we all should uplift and respect each other, Please checkout [code of conduct](https://github.com/rawheel/MyUnfollowers-App/blob/main/CODE_OF_CONDUCT.md). 
 
+#### Feel free to use it as-is or personalize it to suit your needs.
+- If you'd like to contribute and enhance this tool for others, please check the [Issues](https://github.com/yourusername/my-temu-scraper/issues) page. Here’s [how you can contribute to this project](https://docs.github.com/en/get-started/quickstart/contributing-to-projects).
+- For an in-depth guide on recreating this project, refer to the [LEARN.md](https://github.com/yourusername/my-temu-scraper/LEARN.md) file.
+- As a healthy open-source community, we should uplift and respect each other; please review our [code of conduct](https://github.com/yourusername/my-temu-scraper/blob/main/CODE_OF_CONDUCT.md).
 
-#### This App is developed by [Raheel Siddiqui](https://github.com/rawheel) with :heart:
+#### This App is developed by [Your Name](https://github.com/yourusername) with ❤️
+
+--- 
+
+Feel free to modify any sections to better fit your app’s features or your personal touch! Let me know if you need any further adjustments.
