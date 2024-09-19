@@ -35,8 +35,8 @@ You can manipulate the data with Pandas to gain insights into product trends, pr
 - Perform data analysis using Pandas to visualize trends and insights.
 
 #### Feel free to use it as-is or personalize it to suit your needs.
-- If you'd like to contribute and enhance this tool for others, please check the [Issues](https://github.com/yourusername/my-temu-scraper/issues) page. Here’s [how you can contribute to this project](https://docs.github.com/en/get-started/quickstart/contributing-to-projects).
-- For an in-depth guide on recreating this project, refer to the [LEARN.md](https://github.com/yourusername/my-temu-scraper/LEARN.md) file.
-- As a healthy open-source community, we should uplift and respect each other; please review our [code of conduct](https://github.com/yourusername/my-temu-scraper/blob/main/CODE_OF_CONDUCT.md).
+- If you'd like to contribute and enhance this tool for others, please check the [Issues](https://github.com/eofferupp/my-temu-scraper/issues) page. Here’s [how you can contribute to this project](https://docs.github.com/en/get-started/quickstart/contributing-to-projects).
+- For an in-depth guide on recreating this project, refer to the [LEARN.md](https://github.com/eofferupp/my-temu-scraper/LEARN.md) file.
+- As a healthy open-source community, we should uplift and respect each other; please review our [code of conduct](https://github.com/eofferupp/my-temu-scraper/blob/main/CODE_OF_CONDUCT.md).
 
 #### This App is developed by [Tres-Tech](https://github.com/eofferupp) with ❤️
