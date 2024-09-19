@@ -1,4 +1,4 @@
-# 🕵️ My Temu Scraper App [![GitHub](https://img.shields.io/github/license/yourusername/my-temu-scraper?color=blue)](https://img.shields.io/github/license/yourusername/my-temu-scraper) [![GitHub stars](https://img.shields.io/github/stars/yourusername/my-temu-scraper)](https://github.com/yourusername/my-temu-scraper/stargazers)
+# 🕵️ My Temu Scraper App [![GitHub](https://img.shields.io/github/license/eofferupp/my-temu-scraper?color=blue)](https://img.shields.io/github/license/eofferupp/my-temu-scraper) [![GitHub stars](https://img.shields.io/github/stars/eofferupp/my-temu-scraper)](https://github.com/eofferupp/my-temu-scraper/stargazers)
 
 ## 🚀 A powerful tool to scrape all products from Temu with visualizations and insights.
 This app is built using **Selenium** for web scraping, **Requests** for HTTP requests, and **Pandas** for data manipulation and analysis. It allows you to extract comprehensive product data from Temu, storing it for further analysis and generating valuable insights.
