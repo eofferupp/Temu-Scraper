@@ -1,4 +1,4 @@
-<img src="https://github.com/eofferupp/my-temu-scraper/images/cover.png" alt="MyUnfollowers">
+<img src="https://github.com/eofferupp/my-temu-scraper/images/cover.png" >
 
 # 🕵️ My Temu Scraper App [![GitHub](https://img.shields.io/github/license/eofferupp/my-temu-scraper?color=blue)](https://img.shields.io/github/license/eofferupp/my-temu-scraper) [![GitHub stars](https://img.shields.io/github/stars/eofferupp/my-temu-scraper)](https://github.com/eofferupp/my-temu-scraper/stargazers)
 
