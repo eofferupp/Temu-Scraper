@@ -1,24 +1,14 @@
-Here’s an updated description that emphasizes the capability to scrape all products from Temu:
-
 ---
 
 # 🕵️ My Temu Scraper App [![GitHub](https://img.shields.io/github/license/yourusername/my-temu-scraper?color=blue)](https://img.shields.io/github/license/yourusername/my-temu-scraper) [![GitHub stars](https://img.shields.io/github/stars/yourusername/my-temu-scraper)](https://github.com/yourusername/my-temu-scraper/stargazers)
 
 ## 🚀 A powerful tool to scrape all products from Temu with visualizations and insights.
-This app is built using Flask (Python micro framework) and Vue.js, a lightweight JavaScript framework for the frontend. The [Backend API](https://github.com/yourusername/my-temu-scraper-api) leverages web scraping techniques to gather comprehensive product data from Temu, storing it in a database for detailed analysis and trends. 
+This app is built using **Selenium** for web scraping, **Requests** for HTTP requests, and **Pandas** for data manipulation and analysis. It allows you to extract comprehensive product data from Temu, storing it for further analysis and generating valuable insights.
+
 #### Check the [Live Demo](https://mytemuscraper.herokuapp.com/) 👨‍💻
 
 ## ⚙️ USAGE
-### 1- Enter your search criteria or leave it blank to scrape all products.
-<img src="https://github.com/yourusername/my-temu-scraper/blob/main/screenshots/home.jpg" alt="Temu Scraper Home">
-
-### 2- The scraper will fetch all relevant product data and store it for future analysis.
-<img src="https://github.com/yourusername/my-temu-scraper/blob/main/screenshots/results.jpg" alt="Temu Scraper Results">
-
-### 3- View insights, trends, and detailed stats based on the scraped product data.
-<img src="https://github.com/yourusername/my-temu-scraper/blob/main/screenshots/insights.jpg" alt="Temu Scraper Insights">
-
-## How To Setup & Use
+### 1- Run the scraper to fetch all products from Temu.
 ```bash
 # Clone this repository
 git clone https://github.com/yourusername/my-temu-scraper.git
@@ -27,11 +17,22 @@ git clone https://github.com/yourusername/my-temu-scraper.git
 cd my-temu-scraper
 
 # Install dependencies
-npm install
+pip install -r requirements.txt
 
-# Start a local dev server
-npm run serve
+# Run the scraper
+python scraper.py
 ```
+
+### 2- View the scraped data in a structured format.
+The scraped product data will be saved in a CSV file for easy access and analysis.
+
+### 3- Analyze the data using Pandas to derive insights.
+You can manipulate the data with Pandas to gain insights into product trends, prices, and more.
+
+## Features
+- Scrape all product details, including prices, descriptions, and images.
+- Save scraped data into CSV format for easy access.
+- Perform data analysis using Pandas to visualize trends and insights.
 
 #### Feel free to use it as-is or personalize it to suit your needs.
 - If you'd like to contribute and enhance this tool for others, please check the [Issues](https://github.com/yourusername/my-temu-scraper/issues) page. Here’s [how you can contribute to this project](https://docs.github.com/en/get-started/quickstart/contributing-to-projects).
@@ -40,6 +41,4 @@ npm run serve
 
 #### This App is developed by [Your Name](https://github.com/yourusername) with ❤️
 
---- 
-
-Feel free to modify any sections to better fit your app’s features or your personal touch! Let me know if you need any further adjustments.
+---
