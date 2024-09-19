@@ -1,3 +1,5 @@
+<img src="https://github.com/rawheel/My-Unfollowers-Vue-App/blob/main/screenshots/cover.jpg" alt="MyUnfollowers">
+
 # 🕵️ My Temu Scraper App [![GitHub](https://img.shields.io/github/license/eofferupp/my-temu-scraper?color=blue)](https://img.shields.io/github/license/eofferupp/my-temu-scraper) [![GitHub stars](https://img.shields.io/github/stars/eofferupp/my-temu-scraper)](https://github.com/eofferupp/my-temu-scraper/stargazers)
 
 ## 🚀 A powerful tool to scrape all products from Temu with visualizations and insights.
